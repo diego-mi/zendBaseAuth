@@ -3,6 +3,12 @@
 <h2>Base</h2>
 
 <p>
+Com sistema de autenticacao
+
+http://cursozendframework.com.br/
+</p>
+
+<p>
 Projeto do mine curso de Zend Framework 2
 
 http://cursozendframework.com.br/
